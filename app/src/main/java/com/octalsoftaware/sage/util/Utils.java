@@ -49,6 +49,10 @@ public class Utils {
         animation1.setFillAfter(true);
         tv.startAnimation(animation1);
     }
+
+    public static void clickAnimation11(TextView tv) {
+
+    }
     public static String getUniqueImageName() {
         //will generate a random num
         //between 15-10000
