@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="response_success">1</integer>
+    <integer name="response_failure">0</integer>
+
+    <integer name="call_txt">1</integer>
+    <integer name="call_audio">2</integer>
+    <integer name="call_video">3</integer>
+
+</resources>

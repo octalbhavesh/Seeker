@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "144263302860",
+    "firebase_url": "https://sageseeker-5827f.firebaseio.com",
+    "project_id": "sageseeker-5827f",
+    "storage_bucket": "sageseeker-5827f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144263302860:android:322ac74a676704f3",
+        "android_client_info": {
+          "package_name": "com.sage.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144263302860-8ocip980q4opdhk7okc82j9bu3b4jecv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sage.android",
+            "certificate_hash": "cfce5c38aeedd5cc8e0c186e4d728be6f6a5fc67"
+          }
+        },
+        {
+          "client_id": "144263302860-aub23mordfa0mqnr6dmd41445964ofno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxVENR9_cEw642SXozADWRimQ-R_d9Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144263302860-aub23mordfa0mqnr6dmd41445964ofno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
